@@ -1,4 +1,4 @@
-package dialogflow
+package dialogflow_custom_sdk
 
 import (
 	"context"
