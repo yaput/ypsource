@@ -1,4 +1,4 @@
-package dialogflow_custom_sdk
+package ypsource
 
 import (
 	"context"
